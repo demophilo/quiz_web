@@ -1,0 +1,41 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "domain": "science",
+            "category": "geography",
+            "subcategory": "europe",
+            "subject": "capital_cities",
+            "question": "Wie heißt die Hauptstadt von Frankreich?",
+            "right_answers": [
+                "Paris"
+            ],
+            "wrong_answers": [
+                "London",
+                "Berlin",
+                "Madrid"
+            ],
+            "difficulty": 1,
+            "funfact": "Paris ist die Stadt der Liebe.",
+            "is_verified": true
+        },
+        {
+            "id": 2,
+            "domain": "science",
+            "category": "mathematics",
+            "subcategory": "arithmetic",
+            "subject": "basic_operations",
+            "question": "What is 2 + 2?",
+            "right_answers": [
+                "4"
+            ],
+            "wrong_answers": [
+                "3",
+                "5",
+                "6"
+            ],
+            "difficulty": 1,
+            "is_verified": true
+        }
+    ]
+}
